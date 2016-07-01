@@ -9,7 +9,7 @@ first homework assignment
 		<title>My First Webpage
     </head>
 	<body>	
-			<title>My First Webpage</title>
+			<title>My Resume Webpage</title>
 	</head>
-	this is my resume 
 	<body>
+	this is my resume in HTML format 
