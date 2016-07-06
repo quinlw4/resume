@@ -10,8 +10,11 @@ first homework assignment
     </head>
 	<body>	
 			<title>My Resume Webpage</title>
-	</head>
-	<body>
+	</head>Quincy Wise
+	2 gold street 
+	New York, Ny 10038
+	818-312-3323
+	qlwise4@gmail.com<body>
 	this is my resume in HTML format 
 		<h2>Look ma! My resume is in HTML now</h2>
 		<h3>Hard worker looking for a part or full time position. Excellent people skills, very well organized, two plus years job experience at Loeb Enterprises. I will consider any position you have open for me. Thank you for your time, I hope you will consider me for this job.<h3>
